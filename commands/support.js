@@ -29,7 +29,7 @@ module.exports = {
   run: async (client, interaction) => {
     try {
 
-     const supportServerLink = 'https://discord.gg/FUEHs7RCqz';
+     const supportServerLink = 'https://discord.com/invite/ecwZkw5KB8';
         const embed = new EmbedBuilder()
             .setColor('#FFFFFF')
             .setTitle('Support server')
